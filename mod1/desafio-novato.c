@@ -23,7 +23,7 @@ void limparBuffer(){
 int main(){
 
     //limpa o buffer de entrada
-    setbuf(stdin, NULL);
+    limparBuffer();
 
     //laço para ler os dados dos territórios
     for(int i=0; i<QTDE_TERRITORIOS; i++){
