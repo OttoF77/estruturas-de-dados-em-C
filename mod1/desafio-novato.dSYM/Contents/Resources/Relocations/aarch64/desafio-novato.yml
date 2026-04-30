@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/otto/Documents/Cursos/Engenharia de Software - Wyden/Semestre 3/estruturas-de-dados-em-C/mod1/desafio-novato'
+relocations:     []
+...
